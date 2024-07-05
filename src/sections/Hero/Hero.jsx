@@ -47,7 +47,7 @@ function Hero() {
           </a>
         </span>
         <p className={styles.description}>
-          Dilligent worker egar to learn new skills and enter the world of software engineering.
+          Dilligent worker eager to learn new skills and enter the world of software engineering.
         </p>
         <a href={CV} download>
           <button className="hover">Resume</button>
