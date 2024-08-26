@@ -3,6 +3,7 @@ import spacerace from '../../../assets/space-race.png';
 import catkingdom from '../../../assets/cat-kingdom.png';
 import computer from '../../../assets/computer.png';
 import ProjectCard from '../../../common/ProjectCard';
+import filecleaner from '../../../assets/filecleaner.png';
 
 
 function Projects() {
@@ -21,6 +22,10 @@ function Projects() {
         < ProjectCard src={computer} link="https://github.com/zkaplan1103/PersonalWebsite"
         h3="Zachary Kaplan"
         p = "Personal Website"
+        />
+         < ProjectCard src={filecleaner} link="https://github.com/zkaplan1103/File-Cleaner"
+        h3="File Cleaner"
+        p = "Python Background Cleaner"
         />
        </div>
     </section>
