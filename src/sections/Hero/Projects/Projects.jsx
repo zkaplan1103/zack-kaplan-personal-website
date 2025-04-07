@@ -19,7 +19,7 @@ function Projects() {
         h3="Cat Kingdom"
         p = "2D Platformer"
         />
-        < ProjectCard src={computer} link="https://github.com/zkaplan1103/PersonalWebsite"
+        < ProjectCard src={computer} link="https://github.com/zkaplan1103/zack-kaplan-personal-website"
         h3="Zachary Kaplan"
         p = "Personal Website"
         />
